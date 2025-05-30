@@ -49,5 +49,5 @@ Black-Core uses AI to respond with perfectly structured terminal commands using 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/black-core
+git clone https://github.com/Raju637/Black-core
 cd black-core
