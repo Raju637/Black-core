@@ -50,4 +50,4 @@ Black-Core uses AI to respond with perfectly structured terminal commands using 
 
 ```bash
 git clone https://github.com/Raju637/Black-core
-cd black-core
+cd Black-core
